@@ -18,12 +18,10 @@ Fırat Üniversitesi Yapay Zeka ve Veri Mühendisliği bölümünde öğrenciyim
 
 ---
 
+
+
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/asmtkryl/asmtkryl?style=for-the-badge&logo=github&label=Son%20Calisma&color=blue" alt="Son Çalışma" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asmtkryl&show_icons=true&theme=radical" alt="Toplam Katkı" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmtkryl&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" />
+  <img src="https://streak-stats.demolab.com?user=asmtkryl&theme=radical&hide_border=true&locale=tr" alt="Toplam Katkı İstatistikleri" />
 </p>
 
 ---
